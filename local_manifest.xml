@@ -4,14 +4,14 @@
 
  <!-- Device Tree -->
 
- <project path="device/xiaomi/garden" name="alternoegraha/android_device_xiaomi_garden.git" remote="github" revision="twelve30" />
+ <project path="device/xiaomi/garden" name="blueseaxy/android_device_xiaomi_garden.git" remote="github" revision="twelve30" />
  
 
  
 
  <!-- Vendor tree -->
 
- <project path="vendor/xiaomi/garden" name="lulut-sharkart/android_vendor_xiaomi_garden.git" remote="github" revision="twelve30" />
+ <project path="vendor/xiaomi/garden" name="blueseaxy/android_vendor_xiaomi_garden.git" remote="github" revision="twelve30" />
 
 
 </manifest>
